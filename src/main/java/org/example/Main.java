@@ -64,7 +64,7 @@ public class Main {
     public static void main(String[] args) {
         logger.info("Start of Execution");
         Scanner scanner = new Scanner(System.in);
-
+//        System.out.println();
         System.out.println("Choose an operation:");
         System.out.println("1: Square root (√x)");
         System.out.println("2: Factorial (x!)");

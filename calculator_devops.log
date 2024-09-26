@@ -16,3 +16,8 @@
 2024-09-25 13:44:34.065 [main] INFO  org.example.Main - Operation: Factorial - Start
 2024-09-25 13:44:34.066 [main] INFO  org.example.Main - Operation: Factorial, Input: 0, Result: 1
 2024-09-25 13:44:34.066 [main] INFO  org.example.Main - Operation: Factorial - End
+2024-09-25 14:36:48.695 [main] INFO  org.example.Main - Start of Execution
+2024-09-25 14:36:58.155 [main] INFO  org.example.Main - Operation: Square root - Start
+2024-09-25 14:36:58.158 [main] INFO  org.example.Main - Operation: Square root, Input: 4.0, Result: 2.0
+2024-09-25 14:36:58.159 [main] INFO  org.example.Main - Operation: Square root - End
+2024-09-25 14:36:58.159 [main] INFO  org.example.Main - End of Execution
