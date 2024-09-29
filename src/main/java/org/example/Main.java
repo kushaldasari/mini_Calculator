@@ -24,6 +24,7 @@ public class Main {
     }
 
     // Factorial function (x!)
+    //2+2
     public static long factorial(int x) {
         logger.info("Operation: Factorial - Start");
         if (x < 0) {
